@@ -1,0 +1,13 @@
+* {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+}
+
+#erro {
+    display: none;
+}
+
+#dogImage {
+    max-width: 100%;
+    height: auto;
+}
